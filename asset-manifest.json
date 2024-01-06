@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/GouharFayyaz/signup-form.git/static/css/main.09e087d7.css",
+    "main.js": "/GouharFayyaz/signup-form.git/static/js/main.c90c678c.js",
+    "index.html": "/GouharFayyaz/signup-form.git/index.html",
+    "main.09e087d7.css.map": "/GouharFayyaz/signup-form.git/static/css/main.09e087d7.css.map",
+    "main.c90c678c.js.map": "/GouharFayyaz/signup-form.git/static/js/main.c90c678c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09e087d7.css",
+    "static/js/main.c90c678c.js"
+  ]
+}
