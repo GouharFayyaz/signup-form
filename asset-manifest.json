@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/GouharFayyaz/signup-form/static/css/main.09e087d7.css",
-    "main.js": "/GouharFayyaz/signup-form/static/js/main.c90c678c.js",
-    "index.html": "/GouharFayyaz/signup-form/index.html",
-    "main.09e087d7.css.map": "/GouharFayyaz/signup-form/static/css/main.09e087d7.css.map",
-    "main.c90c678c.js.map": "/GouharFayyaz/signup-form/static/js/main.c90c678c.js.map"
+    "main.css": "/signup-form/static/css/main.09e087d7.css",
+    "main.js": "/signup-form/static/js/main.c90c678c.js",
+    "index.html": "/signup-form/index.html",
+    "main.09e087d7.css.map": "/signup-form/static/css/main.09e087d7.css.map",
+    "main.c90c678c.js.map": "/signup-form/static/js/main.c90c678c.js.map"
   },
   "entrypoints": [
     "static/css/main.09e087d7.css",
